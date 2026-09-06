@@ -1,0 +1,6 @@
+{
+  "name": "Ecommerce Shop",
+  "description": "A simple, fast, and modern e-commerce storefront with catalog browsing, search, cart, and checkout persisted locally.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
